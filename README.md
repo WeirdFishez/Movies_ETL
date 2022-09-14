@@ -1,7 +1,7 @@
 # Movies_ETL
 
 ## Overview
-This poject was an introduction to the Extract, Transform, Load (ETL) process.
+This poject was an introduction to the Extract, Transform, Load (ETL) process using SQL.
 
 ### Skills used
 - Create an ETL pipeline from raw data to a SQL database.
